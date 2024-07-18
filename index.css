@@ -11,11 +11,11 @@ body{
     display: grid;
     /* grid-template-rows: repeat(2,1fr); */
     /* grid-template-columns: repeat(4,1fr); */
-    grid-template-columns: repeat(auto-fit,minmax(400px , 410px));
+    grid-template-columns: repeat(auto-fit,minmax(200px , 210px));
     justify-content: center;
     gap: 20px;
     /* padding: 30px 300px 30px 300px; */
-    
+
 }
 .card{
     border: 1px solid rgb(85, 82, 82);
